@@ -1,0 +1,19 @@
+Predictions for the following language pairs are available:
+
+- en-ar
+- en-es
+- en-fr
+- en-he
+- en-pt
+- en-ru
+- en-ta
+- en-zh
+- es-ca
+- ru-uk
+- ru-uz
+
+The above first 10 language pairs are the top 10 language pairs used in
+ContentTranslation.
+
+Code used to generate language pairs and predictions lives at
+https://github.com/wikimedia/research-translation-recommendation-models.
