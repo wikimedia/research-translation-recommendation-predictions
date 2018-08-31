@@ -1,19 +1,42 @@
 Predictions for the following language pairs are available:
 
+- ca-es
 - en-ar
+- en-ca
+- en-cs
+- en-de
+- en-el
 - en-es
-- en-fr
+- en-fa
+- en-gl
 - en-he
+- en-id
+- en-it
+- en-ja
+- en-ko
+- en-nl
 - en-pt
-- en-ru
-- en-ta
+- en-ro
+- en-sr
+- en-tr
+- en-uk
+- en-vi
 - en-zh
 - es-ca
+- es-gl
+- es-pt
+- fr-ca
+- fr-es
+- pt-es
+- ru-be
+- ru-hy
+- ru-kk
 - ru-uk
 - ru-uz
+- uk-ru
 
-The above first 10 language pairs are the top 10 language pairs used in
-ContentTranslation.
+The above list contains 50 most used language pairs in
+ContentTranslation plus ru-uz.
 
 Code used to generate language pairs and predictions lives at
 https://github.com/wikimedia/research-translation-recommendation-models.
